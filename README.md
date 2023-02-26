@@ -12,6 +12,7 @@ I'm interested in too many software technologies.
 * C++ [Co-Cpp19](https://github.com/basicpp17/co-cpp19)
 * Talks, Trainings Modern C++ and [CleanCode C++](https://github.com/cleancode-cpp)
 * Organizing [C++ Usergroup Dresden](https://cpp-ug-dresden.blogspot.com)
+* C++ Development Docker Containers [Qbs](https://github.com/arBmind/qbs-containers), [CMake](https://github.com/arBmind/cmake-containers) and [QtCreator](https://github.com/arBmind/qtcreator-containers)
 
 ## Various Tools
 
@@ -19,12 +20,6 @@ I'm interested in too many software technologies.
 * @hicknhack-software [Redmine Hourglass Plugin](https://github.com/hicknhack-software/redmine_hourglass)
 * [Desktop Duplication Tool](https://github.com/arBmind/desktop-duplication-cpp)
 * [Dresden Weekly](https://github.com/dresden-weekly) Ansible Deployment and more experiments
-
-## C++ Development Docker Containers
-
-* [Qbs](https://github.com/arBmind/qbs-containers)
-* [CMake](https://github.com/arBmind/cmake-containers)
-* [QtCreator](https://github.com/arBmind/qtcreator-containers)
 
 ## Presenation Slide Sources
 
